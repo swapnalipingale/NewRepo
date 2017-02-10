@@ -1,3 +1,3 @@
 FROM tomcat:8-jre8
 MAINTAINER "Swapnali"
-ADD helloworld.war /usr/local/tomcat/webapps/
+ADD sample.war /usr/local/tomcat/webapps/
